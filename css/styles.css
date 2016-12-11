@@ -1,0 +1,32 @@
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: #2d3c49;
+    font-weight: 300;
+}
+
+.title-logo {
+    width: 100px;
+    height: auto;
+    margin-top: 20px;
+}
+
+.text-muted{
+    color: #7d97ad;
+}
+
+.text-thin{
+    font-weight: 100;
+}
+
+.big-title {
+    font-size: 60px;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    /* Set the hr color */
+    color: #7d97ad; /* old IE */
+    background-color: #7d97ad; /* Modern Browsers */
+}
